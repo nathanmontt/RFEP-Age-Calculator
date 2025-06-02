@@ -8,9 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "description": "",
-  "dependencies": {
-    "js-datepicker": "^5.18.4",
-    "luxon": "^3.6.1"
-  }
+  "description": ""
 }

@@ -1,6 +1,5 @@
-const datepicker = window.datepicker;
-const { DateTime } = window.luxon;
-
+const picker = datepicker('#datepicker');
+console.log(picker)
 // Forma de escrever
 // const picker = datepicker(selector, options);
 
